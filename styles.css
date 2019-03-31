@@ -1,0 +1,32 @@
+body {
+  font-family: 'Amatic SC', cursive;
+  background: #3f8efc;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.wrapper h1 {
+  font-size: 10rem;
+  color: #87bfff;
+}
+
+.sub-wrapper textarea {
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5rem;
+  color: #2667ff;
+  box-shadow: 2.5px 5px #add7f6;
+}
+
+.sub-wrapper input {
+  margin: 1%;
+  width: 10vw;
+  box-shadow: 2.5px 5px #add7f6;
+}
